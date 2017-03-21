@@ -1,0 +1,67 @@
+.head{
+    float: right;
+    padding-right: 30px;
+}
+nav{
+    padding-top: 5px;
+    color:darksalmon;
+    background-color: silver;
+    
+}
+.logo{
+    border-radius: 221px;
+    
+}
+.con{
+    width: 100%;
+}
+.name{
+    padding-left: 15px;
+font-family: 'Indie Flower', cursive;
+    font-size: 150px;
+}
+.portfolio{
+    padding-right: 80px;
+    padding-top: 30px;
+}
+.cap2{
+    width: 112%;
+    padding-top: 20px;
+    border: 2px solid black;
+    border-radius: 45px;
+    
+}
+.cap1{
+    padding-top: 20px;
+    border: 2px solid black;
+    border-radius: 45px;
+    
+}
+.caption{
+    font-family: 'Butterfly Kids', cursive;
+    font-size: 44px;
+}
+.port{
+    font-family: 'Ruthie', cursive;
+    font-size: 75px;
+}
+.first{
+    height: 100%;
+}
+
+.pro{
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+}
+.cap3{
+    width: 112%;
+    padding-top: 20px;
+    border: 2px solid black;
+    border-radius: 45px;
+}
+.third{
+    height:100%
+}
+textarea.form-control {
+    height: 110px;
+}
